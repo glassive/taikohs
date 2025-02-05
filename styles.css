@@ -1,7 +1,7 @@
 * {
     padding: 0px;
     margin: 0px;
-    font-family: "Nunito", serif;
+    font-family: "Nunito", sans-serif;
 }  
 
 :root {
@@ -128,7 +128,6 @@ header {
 
 p {
     color: #ffffff;
-    font-family: "Nunito", serif;
 }
 
 h1 {
@@ -138,7 +137,6 @@ h1 {
     background-image: linear-gradient(0.25turn, var(--primary-color), #ffffff);
     color: transparent;
     background-clip: text;
-    font-family: "Nunito", serif;
     font-weight: 1000;
 }
 
@@ -234,7 +232,6 @@ h1 {
 
 .keybind {
     color: #ffffff;
-    font-family: "Nunito", serif;
     font-weight: 1000;
     margin: 0 5px;
     text-align: center;
@@ -289,12 +286,13 @@ select:hover {
 
 select>option {
     background-color: hsl(var(--hue), 17%, 66%);
-    font-family: "Nunito", serif;   
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
     border-radius: 40px;
 }
 
 button, #dlselec {
-    font-weight: 1000;
+    font-weight: 900;
     font-size: 16px;
     display: flex;
     flex-direction: row;
