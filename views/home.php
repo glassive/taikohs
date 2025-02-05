@@ -13,8 +13,8 @@
         <option id="hsSelector" value="goofy">Goofy</option>
         <option id="hsSelector" value="casinosu">casinosu!</option>
         <option id="hsSelector" value="amen">Amen Break</option>
-        <option id="hsSelector" value="imagemat">1RoHa Image Material</option>
-        <option id="hsSelector" value="meow">(dekovner) meow</option>
+        <option id="hsSelector" value="imagemat">Image Material</option>
+        <option id="hsSelector" value="meow">meow</option>
     </select>
 
     <select name="sampleset" id="sampleset" onchange="window.sessionStorage.setItem('sampleset', document.getElementById('sampleset').value);">

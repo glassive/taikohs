@@ -1,20 +1,5 @@
-<p>default and TNT hitsounds picked from their respective games</p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-<p>awesome hitsounds by: <a href="#">person</a></p>
-
-
-<option id="hsSelector" value="pingpong">Ping-Pong</option>
-<option id="hsSelector" value="light">Light</option>
-<option id="hsSelector" value="weeb">Weeb</option>
-<option id="hsSelector" value="goofy">Goofy</option>
-<option id="hsSelector" value="casinosu">casinosu!</option>
-<option id="hsSelector" value="amen">Amen Break</option>
-<option id="hsSelector" value="imagemat">1RoHa Image Material</option>
-<option id="hsSelector" value="meow">(dekovner) meow</option>
+<p>Default and TNT hitsounds picked from their respective games</p>
+<p>casinosu! hitsounds: <a target="_blank" href="https://skins.osuck.net/skins/4030?v=0">osuck</a></p>
+<p>Image Material hitsounds: <a target="_blank" href="https://www.youtube.com/watch?v=JT4aIE91oM4">1RoHa's iconic play (video) </a></p>
+<p>meow hitsounds from <a target="_blank" href="https://osu.ppy.sh/beatmapsets/2113044">Dekovner's mapset</a></p>
+<p>Font used: <a target="_blank" href="https://fonts.google.com/specimen/Nunito">Nunito</a></p>

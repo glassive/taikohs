@@ -46,7 +46,7 @@
     <footer>
         <div>
             <i class="ph-fill ph-github-logo"></i>
-            <a href="">GitHub</a>
+            <a href="https://github.com/glassive/taikohs" target="_blank">GitHub</a>
         </div>
 
         <div>

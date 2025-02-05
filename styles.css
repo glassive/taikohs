@@ -277,7 +277,6 @@ select {
     border: none;
     padding: 8px;
     color: hsl(var(--hue), 5%, 15%);
-    font-family: "Nunito", serif;
     font-weight: 800;
     font-size: 15px;
     background-color: hsl(var(--hue), 17%, 66%);
@@ -295,7 +294,6 @@ select>option {
 }
 
 button, #dlselec {
-    font-family: "Nunito", serif;
     font-weight: 1000;
     font-size: 16px;
     display: flex;
